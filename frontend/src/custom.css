@@ -1,0 +1,21 @@
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height:50px;
+    border: 1px solid black;
+}
+.link {
+    text-decoration: none;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    
+}
+.h{
+    border: 1px solid black;
+}
+
+ .slick-dots li{
+    margin:0 !important;
+}
